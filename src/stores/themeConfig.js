@@ -23,7 +23,7 @@ export const useThemeConfig = defineStore('themeConfig', {
 
 			"wartermarkText":"vue-next-admin","tagsStyle":"tags-style-five","animation":"slide-right","columnsAsideStyle":"columns-round","columnsAsideLayout":"columns-vertical","layout":"defaults",
 
-			"isRequestRoutes":false,"globalTitle":"ddLirary","globalViceTitle":"ddLiraryAdmin","globalViceTitleMsg":"Welcome",
+			"isRequestRoutes":false,"globalTitle":"ddLibrary","globalViceTitle":"ddLibraryAdmin","globalViceTitleMsg":"Welcome",
 
 			"globalI18n":"zh-cn","globalComponentSize":"large"
 		},

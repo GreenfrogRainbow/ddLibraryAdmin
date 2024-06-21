@@ -5,7 +5,7 @@ import { Session } from '/@/utils/storage';
 
 // 配置新建一个 axios 实例
 const service = axios.create({
-	baseURL: 'http://192.168.0.100:3007',
+	baseURL: 'http://127.0.0.1:3007',
 	timeout: 50000,
 	headers: { 'Content-Type': 'application/json' },
 	paramsSerializer: {
